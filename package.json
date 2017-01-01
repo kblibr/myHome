@@ -1,0 +1,15 @@
+{
+  "name": "myHome",
+  "version": "1.0.0",
+  "description": "Some node code that will interface with my home Rasbery PI and Alexa so I can close my garage door with my voice.",
+  "main": "index.js",
+  "dependencies": {
+    "pi-gpio": "0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryant Larsen",
+  "license": "MIT"
+}
